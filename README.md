@@ -11,12 +11,12 @@ https://github.com/cyberscryer-sec/detections-pack-kql-spl
 https://github.com/cyberscryer-sec/alert-email-digest
 
 ## What I’m targeting
-Security Analyst • SOC Analyst • Security Engineer  
+Security Analyst | SOC Analyst | Security Engineer  
 Remote or Los Angeles, CA area
 
 ## Contact
-LinkedIn: www.linkedin.com/in/cyberscryer
-Email: juliatam@gmail.com
+- LinkedIn: www.linkedin.com/in/cyberscryer
+- Email: juliatam@gmail.com
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
