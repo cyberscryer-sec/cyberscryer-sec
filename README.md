@@ -1,9 +1,22 @@
-## Hi there 👋
+# Julia Tam — SOC / Security Analyst (Splunk + Sentinel)
 
-<!--
-**cyberscryer-sec/cyberscryer-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOC analyst focused on alert triage, detection engineering, and clear incident communication.  
+Tools: Splunk (SPL), Microsoft Sentinel (KQL), CrowdStrike Falcon, Microsoft Defender, ELK | Scripting: Python
 
-Here are some ideas to get you started:
+## Start here 
+**1) Detections Pack (KQL + SPL)** — ATT&CK-mapped detections with data requirements + tuning/validation notes  
+https://github.com/cyberscryer-sec/detections-pack-kql-spl
+
+**2) Alert Email Digest (Python)** — parses security alert emails and generates structured daily incident summaries  
+https://github.com/cyberscryer-sec/alert-email-digest
+
+## What I’m targeting
+Security Analyst • SOC Analyst • Security Engineer  
+Remote or Los Angeles, CA area
+
+## Contact
+LinkedIn: www.linkedin.com/in/cyberscryer
+Email: juliatam@gmail.com
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
