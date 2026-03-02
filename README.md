@@ -1,6 +1,6 @@
 # Julia Tam — SOC / Security Analyst (Splunk + Sentinel)
 
-SOC analyst focused on alert triage, detection engineering, and clear incident communication.  
+SOC analyst focused on high-quality alert triage, detection engineering, and clear incident communication that drives containment and remediation. Experienced in triaging 40–60 alerts/day across endpoint, identity, and network logging and analysis.
 Tools: Splunk (SPL), Microsoft Sentinel (KQL), CrowdStrike Falcon, Microsoft Defender, ELK | Scripting: Python
 
 ## ☕ Start Here:
@@ -14,11 +14,13 @@ https://github.com/cyberscryer-sec/alert-email-digest
 Security Analyst | SOC Analyst | Security Engineer  
 Remote or Los Angeles, CA area
 
-## 📫 How to reach me: 
-- LinkedIn: www.linkedin.com/in/cyberscryer
-- Email: juliatam@gmail.com
-
 ## 💬 Ask me about: 
 - Splunk SPL, Microsoft Sentinel KQL
 - EDR investigations (Defender/CrowdStrike)
 - Alert triage workflows, detection tuning
+
+## 📫 How to reach me: 
+- LinkedIn: www.linkedin.com/in/cyberscryer
+- Email: juliatam@gmail.com
+
+
