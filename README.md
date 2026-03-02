@@ -1,6 +1,7 @@
 # Julia Tam — SOC / Security Analyst (Splunk + Sentinel)
 
 SOC analyst focused on high-quality alert triage, detection engineering, and clear incident communication that drives containment and remediation. Experienced in triaging 40–60 alerts/day across endpoint, identity, and network logging and analysis.
+
 Tools: Splunk (SPL), Microsoft Sentinel (KQL), CrowdStrike Falcon, Microsoft Defender, ELK | Scripting: Python
 
 ## ☕ Start Here:
