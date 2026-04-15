@@ -25,6 +25,6 @@ Remote or Los Angeles, CA area
 
 ## 📫 How to reach me: 
 - LinkedIn: www.linkedin.com/in/cyberscryer
-- Email: juliatam@gmail.com
+- Email: jystam@gmail.com
 
 
