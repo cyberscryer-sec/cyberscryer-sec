@@ -16,12 +16,10 @@ https://github.com/cyberscryer-sec/detections-pack-kql-spl
 2. **Incident Write-Ups** — SOC-style investigations with timelines, evidence, containment/remediation guidance, and detection improvement notes  
 https://github.com/cyberscryer-sec/incident-writeups
 
-3. **cryptic-cti**
-Multilingual CTI collections-support pipeline that transforms noisy English- and Chinese-language cybercrime reporting into structured analyst-facing outputs through extraction, classification, normalization, clustering, and export workflows.
+3. **cryptic-cti** — Multilingual CTI collections-support pipeline that transforms noisy English- and Chinese-language cybercrime reporting into structured analyst-facing outputs through extraction, classification, normalization, clustering, and export workflows.
 https://github.com/cyberscryer-sec/cryptic-cti
 
 ## Areas of Interest
-
 - Cyber Threat Intelligence (CTI)
 - Detection Engineering
 - SOC Operations
@@ -32,15 +30,12 @@ https://github.com/cyberscryer-sec/cryptic-cti
 ---
 
 ## Currently Targeting
-
 Security Analyst • SOC Analyst • Detection Engineer • CTI Analyst
-
 Remote or Los Angeles, CA area
 
 ---
 
 ## Ask Me About:
-
 - Splunk SPL & Microsoft Sentinel KQL
 - EDR investigations (CrowdStrike / Defender)
 - Detection tuning & alert triage workflows
