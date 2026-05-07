@@ -31,7 +31,7 @@ https://github.com/cyberscryer-sec/cryptic-cti
 
 ---
 
-## I'm currently targeting . . .
+## Currently Targeting
 
 Security Analyst • SOC Analyst • Detection Engineer • CTI Analyst
 
