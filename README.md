@@ -31,7 +31,7 @@ https://github.com/cyberscryer-sec/cryptic-cti
 
 ---
 
-## Currently Targeting
+## I'm currently targeting...
 
 Security Analyst • SOC Analyst • Detection Engineer • CTI Analyst
 
@@ -39,7 +39,7 @@ Remote or Los Angeles, CA area
 
 ---
 
-## Ask Me About
+## Ask Me About:
 
 - Splunk SPL & Microsoft Sentinel KQL
 - EDR investigations (CrowdStrike / Defender)
