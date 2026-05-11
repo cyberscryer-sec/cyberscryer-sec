@@ -31,6 +31,7 @@ https://github.com/cyberscryer-sec/cryptic-cti
 
 ## Currently Targeting
 Security Analyst • SOC Analyst • Detection Engineer • CTI Analyst
+
 Remote or Los Angeles, CA area
 
 ---
